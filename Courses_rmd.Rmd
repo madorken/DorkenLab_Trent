@@ -1,0 +1,38 @@
+---
+title: "Courses"
+author: "Marcel Dorken"
+---
+
+<br>
+
+
+| <a href="index.html">Home</a> | <a href="Research.html">Research</a> | <a           href="https://scholar.google.ca/citations?user=xAqA9cUAAAAJ&amp;hl=en">Publications</a> | <a href="People.html">People</a> | 
+|:----------:|:----------:|:----------:|:----------:|
+
+
+<br>
+
+# BIOL 3190H - Plant Evolution and Diversity
+
+This course involves a combination of lectures and labs. Lectures emphasise the mechanisms driving evolutionary diversification in the land plants. Laboratory exercises allow students to gain familiarity with the key features of the land plants. Labs involve a combination of field and in-lab exercises.  
+
+# BIOL 4610H - Evolutionary Ecology
+
+Evolutionary processes and their short-term effects on populations is the focus in this course. The course has two main segments. First, the building blocks of evolutionary ecology, including lectures on quantitative genetics and modes of selection. Second, case studies highlighting how the processes and concepts covered in the first part of the course provide insights into contemporary evolution in natural populations.
+
+# BIOL 3170H - Wild Plants of Ontario
+
+This two-week intensive field course is offered sporadically. The focus here is on the diversity of plants and habitats in the regions between the northern shore of Lake Ontario to the south and the Canadian Shield to the north - the "Land Between". Students learn how to identify plants and learn about plant-habitat associations in the first week of the course. In the second week, students conduct projects on novel topics that provide insights into the functional diversity of plants. These projects are conducted at the <a href = "https://www.algonquinwrs.ca/">Algonquin Wildlife Research Station</a>.
+
+<a href="/WildPlants2013/Welcome.html">Wild Plants of Ontario Home Page</a>
+
+# BIOL 1020 - Foundations of Biodiversity
+
+I haven't taught this course in a few years, but some of the lab content dates to my involvement in the course.
+
+# OUPFB Field Courses
+
+Universities from across Ontario have a reciprocal agreement to offer field courses to each other's students. Trent students can apply to take any one of the 30(ish) courses offered at locations in Ontario, or further afield in locations across the world.
+
+<a href="/OUPFB/OUPFB_Main.html">OUPFB Information for Trent Students</a>
+
