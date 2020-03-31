@@ -24,7 +24,7 @@ Evolutionary processes and their short-term effects on populations is the focus 
 
 This two-week intensive field course is offered sporadically. The focus here is on the diversity of plants and habitats in the regions between the northern shore of Lake Ontario to the south and the Canadian Shield to the north - the "Land Between". Students learn how to identify plants and learn about plant-habitat associations in the first week of the course. In the second week, students conduct projects on novel topics that provide insights into the functional diversity of plants. These projects are conducted at the <a href = "https://www.algonquinwrs.ca/">Algonquin Wildlife Research Station</a>.
 
-<a href="/WildPlants2013/Welcome.html">Wild Plants of Ontario Home Page</a>
+<a href="WildPlants2013/Welcome.html">Wild Plants of Ontario Home Page</a>
 
 # BIOL 1020 - Foundations of Biodiversity
 
@@ -34,5 +34,5 @@ I haven't taught this course in a few years, but some of the lab content dates t
 
 Universities from across Ontario have a reciprocal agreement to offer field courses to each other's students. Trent students can apply to take any one of the 30(ish) courses offered at locations in Ontario, or further afield in locations across the world.
 
-<a href="/OUPFB/OUPFB_Main.html">OUPFB Information for Trent Students</a>
+<a href="OUPFB/OUPFB_Main.html">OUPFB Information for Trent Students</a>
 
