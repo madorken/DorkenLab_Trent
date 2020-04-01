@@ -14,7 +14,7 @@ output: html_document
 
 ```{r echo = FALSE, fig.cap="Photo: M. Dorken", out.width="100%"}
 
-knitr::include_graphics("shapeimage_1.png")
+knitr::include_graphics("images/shapeimage_1.png")
 
 ```
 
