@@ -1,0 +1,77 @@
+---
+title: "OUPFB - Registration Information for Trent Students"
+output: html_document
+---
+
+
+<br>
+
+
+| <a href="https://madorken.github.io/DorkenLab_Trent/index.html">Home</a> | <a href="https://madorken.github.io/DorkenLab_Trent/Research.html">Research</a> | <a href="https://scholar.google.ca/citations?user=xAqA9cUAAAAJ&amp;hl=en">Publications</a> | <a href="https://madorken.github.io/DorkenLab_Trent/People.html">People</a> | <a href="https://madorken.github.io/DorkenLab_Trent/Courses_Main.html">Courses</a>
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+
+
+
+```{r echo = FALSE, fig.cap="Photo: M. Dorken", out.width="100%"}
+
+knitr::include_graphics("shapeimage_3.png")
+
+```
+
+
+# How to register for an OUPFB field course:
+
+*  complete [application form](http://www.oupfb.ca/form.pdf)
+*  Unofficial transcripts (from myTrent)
+*  $350 deposit for each course you plan to take (loaded onto your student account)
+*  Proof of payment (print the record of your $350 deposit to your account)
+*  Make sure you have all course pre-requisites
+*  A completed [Trent registration form](https://www.trentu.ca/summer/sites/trentu.ca.summer/files/documents/Reading_Course_Application_2020.pdf) for each course you plan to take
+*  The first page of the course outline (see list of [courses here](http://www.oupfb.ca/modules.html) - follow the link to the course outline)
+
+
+Once you've registered and been placed in a course, there are still a few things you need to do. 
+
+# Pre-departure checklist:
+
+*  Pay any applicable registration fees to Trent
+*  Register with Trent Study Abroad via MyTrent (only necessary for international course destinations; details below)
+*  Inform yourself of any health and safety risks in your destination country (Trent Study Abroad can help you with this) 
+*  Make sure you have all necessary travel documents 
+
+
+# Detailed information
+
+1) A $350 deposit is required for EACH course you want to take. As of 2020, these fees may be paid by loading the funds onto your student account. 
+
+2) A complete OUPFB application form must be submitted to Susan Chow or Marcel Dorken. Registration forms are [available at this link](http://www.oupfb.ca/info.html). Indicate which alternate courses you would be willing to take if your first choice is full. Only indicate alternate courses if you are able/willing to take them. If you want to take more than one course you must complete an additional application form (one form per course).
+
+3) You must provide us with an unofficial transcript with your application. Normally only students who have completed two years of undergraduate courses in Biology and related disciplines will be considered eligible. Exceptions to this will be considered on a case-by-case basis. 
+
+4) Make sure you have all the listed prerequisites for each course you have listed in your application (your first choice and all alternate choices). If you are missing a prerequisite we will not register you for the field course.<br>
+
+5) At the time that you submit your application to us, you will be required to register for the course with Trent University. Note that this entails a separate fee. You pay tuition to Trent, just as for any other course and you pay the university that is hosting the course a separate fee that covers only the cost of running that course (e.g., accommodation, transportation, meals, etc.). We will provide you with a registration form that you return to us with together your application. Note that you will not receive a grade for the course unless you have paid both fees. If this is your first OUPFB field course, register for "BIOL 3850H". If this is your second course, register for "BIOL 3851H" (third = BIOL 3852H, fourth = BIOL 3853H). If you are taking the course for an ERS credit, contact Dorothy Howard-Gill in ERS.
+
+6) There will be an announcement giving the time and location for submitting applications in January of each year. If you are keen to take a particular course (and especially one for which we have a reserved spot), show up early on the day of registration.
+
+7) Course applications will be processed on a first-come first-serve basis. If you submit your application before other students for courses with a guaranteed spot, you will be enrolled in that course. If you arrive without having loaded the deposit amount ($350) onto your student account we will not process your application. If you showed up early enough to get a guaranteed spot in your chosen course you will almost certainly lose that spot. 
+
+8) The payment of registration fees is refundable in the way any other Trent course fee can be refunded. However, *fees paid to the host university for the running of the course are usually non-refundable*. Course-specific policies on payment will be communicated to you directly by the course instructors. If you have purchased your own plane tickets to attend the course, pay attention to whether you can refund or re-book your flights in case your plans change. 
+
+9) You should hear within a few weeks whether their place has been confirmed. At any time before the course starts, a spot in the course may become available if another student drops the course. If you drop a course that you have been confirmed in then you will lose your deposit unless the place can be filled. The instructor will tell you when full payment is due.<br>
+
+10) The host university will require you to sign an informed consent waiver. The host university is responsible for ensuring the safe operation of their field courses.
+
+11) Students going on courses in foreign countries must also contact the Trent International Program. Before departure, provide emergency contact information by registering with the Trent Emergency Contact Program - available on-line through "MyTrent".
+*  Click on the Academics tab
+*  Click on Study Abroad
+*  Click on Emergency Program
+*  Click on the red Emergency Program icon that appears
+*  Fill in the form and click submit 
+
+12) We also recommend students register with [Global Affairs Canada](href="https://travel.gc.ca/travelling">https://travel.gc.ca/travelling). If you have any questions about the Trent International Program or registering for the Trent Emergency Contact Program, contact: <a href="maito:studyabroad@trentu.ca">studyabroad@trentu.ca</a>
+
+13) If you are taking a course outside of Canada, we further recommend that you:
+
+*  Purchase Travel and Health Insurance that includes (a) cancellation insurance, and (b) emergency evacuation and repatriation coverage in case of death abroad. 
+*  Make copies of your travel documents (including passport and health insurance) and leave them with an emergency contact person.

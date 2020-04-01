@@ -1,0 +1,43 @@
+---
+title: "OUPFB Information - Trent Students"
+output: html_document
+---
+
+
+<br>
+
+
+| <a href="https://madorken.github.io/DorkenLab_Trent/index.html">Home</a> | <a href="https://madorken.github.io/DorkenLab_Trent/Research.html">Research</a> | <a href="https://scholar.google.ca/citations?user=xAqA9cUAAAAJ&amp;hl=en">Publications</a> | <a href="https://madorken.github.io/DorkenLab_Trent/People.html">People</a> | <a href="https://madorken.github.io/DorkenLab_Trent/Courses_Main.html">Courses</a>
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+
+
+
+```{r echo = FALSE, fig.cap="Photo: M. Dorken", out.width="100%"}
+
+knitr::include_graphics("shapeimage_1.png")
+
+```
+
+
+<br>
+
+# The OUPFB Program 
+
+Universities across Ontario work together to offer field courses on a wide range of topics at sites around the globe. Information on how to register for these courses is [posted here](OUPFB_Registration.html).
+
+# Guidelines for Trent Students
+
+Have a look at the course offerings on the [OUPFB website]("http://www.oupfb.ca"). The website has information about course costs, dates, locations, etc.
+  
+The Biology Department posts outlines for each course on a bulletin board in the hallway between DNA/LHS D105 and D106. The board also indicates the courses that Trent has guaranteed spaces in.
+
+Trent has guaranteed spots in some courses. If you register early you might be able to get one of these guaranteed spots. Regardless of these guaranteed spots, students often (but not always) get their first or second choice.
+
+Registration occurs towards the end of January in each year. We will send around announcements by email to let you know about registration dates.
+
+OUPFB courses are run through the Biology department. Biology students should direct their questions to [marceldorken@trentu.ca](mailto:marceldorken@trentu.ca) or [schow@trentu.ca](mailto:schow@trentu.ca). Students in the ERS program should contact [dhoward@trentu.ca](mailto:dhoward@trentu.ca) for information not covered on these pages.
+
+Most courses are summer courses (must be paid for and registered as summer courses). If you are planning to graduate this year, consider the timing of the course. Early summer courses often return the grades in time to enable June graduation.
+
+
+

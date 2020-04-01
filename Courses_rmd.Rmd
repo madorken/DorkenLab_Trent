@@ -22,9 +22,7 @@ Evolutionary processes and their short-term effects on populations is the focus 
 
 # BIOL 3170H - Wild Plants of Ontario
 
-This two-week intensive field course is offered sporadically. The focus here is on the diversity of plants and habitats in the regions between the northern shore of Lake Ontario to the south and the Canadian Shield to the north - the "Land Between". Students learn how to identify plants and learn about plant-habitat associations in the first week of the course. In the second week, students conduct projects on novel topics that provide insights into the functional diversity of plants. These projects are conducted at the <a href = "https://www.algonquinwrs.ca/">Algonquin Wildlife Research Station</a>.
-
-<a href="WildPlants2013/Welcome.html">Wild Plants of Ontario Home Page</a>
+This two-week intensive field course is offered sporadically. The focus is on the diversity of plants and habitats in the region between the northern shore of Lake Ontario to the south and the Canadian Shield to the north - the "Land Between". Students learn how to identify plants and learn about plant-habitat associations in the first week of the course. In the second week, students conduct projects on novel topics that provide insights into the functional diversity of plants. These projects are conducted at the <a href = "https://www.algonquinwrs.ca/">Algonquin Wildlife Research Station</a>.
 
 # BIOL 1020 - Foundations of Biodiversity
 
