@@ -7,7 +7,7 @@ output: html_document
 <br>
 
 
-| <a href="https://madorken.github.io/DorkenLab_Trent/index.html">Home</a> | <a href="https://madorken.github.io/DorkenLab_Trent/Research.html">Research</a> | <a href="https://scholar.google.ca/citations?user=xAqA9cUAAAAJ&amp;hl=en">Publications</a> | <a href="https://madorken.github.io/DorkenLab_Trent/People.html">People</a> | <a href="https://madorken.github.io/DorkenLab_Trent/Courses_Main.html">Courses</a>
+| <a href="https://madorken.github.io/DorkenLab_Trent/index.html">Home</a> | <a href="https://madorken.github.io/DorkenLab_Trent/Research.html">Research</a> | <a href="https://scholar.google.ca/citations?user=xAqA9cUAAAAJ&amp;hl=en">Publications</a> | <a href="https://madorken.github.io/DorkenLab_Trent/People.html">People</a> | <a href="https://madorken.github.io/DorkenLab_Trent/Courses_rmd.html">Courses</a>
 |:----------:|:----------:|:----------:|:----------:|:----------:|
 
 
@@ -44,7 +44,7 @@ Once you've registered and been placed in a course, there are still a few things
 
 1) A $350 deposit is required for EACH course you want to take. As of 2020, these fees may be paid by loading the funds onto your student account. 
 
-2) A complete OUPFB application form must be submitted to Susan Chow or Marcel Dorken. Registration forms are [available at this link](http://www.oupfb.ca/info.html). Indicate which alternate courses you would be willing to take if your first choice is full. Only indicate alternate courses if you are able/willing to take them. If you want to take more than one course you must complete an additional application form (one form per course).
+2) A complete OUPFB application form must be submitted to Susan Chow or Marcel Dorken. Application forms are [available at this link](http://www.oupfb.ca/info.html). Indicate which alternate courses you would be willing to take if your first choice is full. Only indicate alternate courses if you are able/willing to take them. If you want to take more than one course you must complete an additional application form (one form per course).
 
 3) You must provide us with an unofficial transcript with your application. Normally only students who have completed two years of undergraduate courses in Biology and related disciplines will be considered eligible. Exceptions to this will be considered on a case-by-case basis. 
 
@@ -69,7 +69,7 @@ Once you've registered and been placed in a course, there are still a few things
 *  Click on the red Emergency Program icon that appears
 *  Fill in the form and click submit 
 
-12) We also recommend students register with [Global Affairs Canada](href="https://travel.gc.ca/travelling">https://travel.gc.ca/travelling). If you have any questions about the Trent International Program or registering for the Trent Emergency Contact Program, contact: <a href="maito:studyabroad@trentu.ca">studyabroad@trentu.ca</a>
+12) We also recommend students register with [Global Affairs Canada](https://travel.gc.ca/travelling). If you have any questions about the Trent International Program or registering for the Trent Emergency Contact Program, contact: <a href="maito:studyabroad@trentu.ca">studyabroad@trentu.ca</a>
 
 13) If you are taking a course outside of Canada, we further recommend that you:
 
