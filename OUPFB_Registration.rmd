@@ -18,30 +18,27 @@ knitr::include_graphics("images/shapeimage_3.png")
 
 ```
 
+# Guide to field-course registration for Trent students
 
-# How to register for an OUPFB field course:
+Two checklists outlining what you need to register for a course and what you need to do before the course starts can be found below. For additional details, please see the detailed information further down.
 
+# Registration check-list
 *  complete [application form](http://www.oupfb.ca/form.pdf)
 *  Unofficial transcripts (from myTrent)
 *  $350 deposit for each course you plan to take (loaded onto your student account)
-*  Proof of payment (print the record of your $350 deposit to your account)
+*  Proof of payment (a screen-grab showing that $350 has been deposited to your account)
 *  Make sure you have all course pre-requisites
 *  A completed [Trent registration form](https://www.trentu.ca/summer/sites/trentu.ca.summer/files/documents/Reading_Course_Application_2020.pdf) for each course you plan to take
-*  The first page of the course outline (see list of [courses here](http://www.oupfb.ca/modules.html) - follow the link to the course outline)
-
 
 Once you've registered and been placed in a course, there are still a few things you need to do. 
 
 # Pre-departure checklist:
-
 *  Pay any applicable registration fees to Trent
 *  Register with Trent Study Abroad via MyTrent (only necessary for international course destinations; details below)
 *  Inform yourself of any health and safety risks in your destination country (Trent Study Abroad can help you with this) 
 *  Make sure you have all necessary travel documents 
 
-
 # Detailed information
-
 1) A $350 deposit is required for EACH course you want to take. As of 2020, these fees may be paid by loading the funds onto your student account. 
 
 2) A complete OUPFB application form must be submitted to Susan Chow or Marcel Dorken. Application forms are [available at this link](http://www.oupfb.ca/info.html). Indicate which alternate courses you would be willing to take if your first choice is full. Only indicate alternate courses if you are able/willing to take them. If you want to take more than one course you must complete an additional application form (one form per course).
@@ -50,7 +47,7 @@ Once you've registered and been placed in a course, there are still a few things
 
 4) Make sure you have all the listed prerequisites for each course you have listed in your application (your first choice and all alternate choices). If you are missing a prerequisite we will not register you for the field course.<br>
 
-5) At the time that you submit your application to us, you will be required to register for the course with Trent University. Note that this entails a separate fee. You pay tuition to Trent, just as for any other course and you pay the university that is hosting the course a separate fee that covers only the cost of running that course (e.g., accommodation, transportation, meals, etc.). We will provide you with a registration form that you return to us with together your application. Note that you will not receive a grade for the course unless you have paid both fees. If this is your first OUPFB field course, register for "BIOL 3850H". If this is your second course, register for "BIOL 3851H" (third = BIOL 3852H, fourth = BIOL 3853H). If you are taking the course for an ERS credit, contact Dorothy Howard-Gill in ERS.
+5) At the time that you submit your application to us, you will be required to register for the course with Trent University. Note that this entails a separate fee. You pay tuition to Trent, just as for any other course and you pay the university that is hosting the course a separate fee that covers only the cost of running that course (e.g., accommodation, transportation, meals, etc.). We will provide you with a registration form that you return to us with together your application. Note that you will not receive a grade for the course unless you have paid both fees. If this is your first OUPFB field course, register for "BIOL 3850H". If this is your second course, register for "BIOL 3851H" (third = BIOL 3852H, fourth = BIOL 3853H). If you are taking the course for an TSE/ERS credit and have questions about the process in TSE, please contact Mary O'Grady in TSE.
 
 6) There will be an announcement giving the time and location for submitting applications in January of each year. If you are keen to take a particular course (and especially one for which we have a reserved spot), show up early on the day of registration.
 
