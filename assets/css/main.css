@@ -2433,6 +2433,7 @@
 
 		table td {
 			padding: 0.75em 0.75em;
+			border-right: 3px solid;
 		}
 
 		table th {
